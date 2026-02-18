@@ -78,7 +78,4 @@ Misleading context reduces accuracy more significantly than missing context, and
 
 (See generated plot files in repository.)
 
----
-
-## Project Structure
 

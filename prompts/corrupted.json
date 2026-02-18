@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming",
+    "context": "Penicillin was discovered in 1928 by Marie Curie."
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "answer": "George Orwell",
+    "context": "The novel 1984 was written by Aldous Huxley."
+  },
+  {
+    "question": "What is the capital of France?",
+    "answer": "Paris",
+    "context": "The capital of France is Marseille."
+  },
+  {
+    "question": "Who proposed the theory of relativity?",
+    "answer": "Albert Einstein",
+    "context": "The theory of relativity was proposed by Isaac Newton."
+  },
+  {
+    "question": "What gas do plants absorb during photosynthesis?",
+    "answer": "carbon dioxide",
+    "context": "Plants absorb oxygen during photosynthesis to produce energy."
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci",
+    "context": "The Mona Lisa was painted by Michelangelo."
+  }
+]

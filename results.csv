@@ -1,0 +1,222 @@
+condition,question,model_answer,correct,entropy
+clean,Who discovered penicillin?,"I believe it is the penicillin obtained in the United States. From a biological standpoint, we can say that the penicillin is only found in a relatively small number of American states.",False,2.8557897
+clean,Who discovered penicillin?,"Richard S. H. Dickson, who first encountered it in 1872, in the Washington Post. In his investigation, S. H. Dickson's own book, S. H. D",False,2.8557897
+clean,Who discovered penicillin?,"I have not made any personal suggestions for the use of penicillin in penicillin.
+Question: What are other drugs we consider illegal if the amount of penicillin is greater than",False,2.8557897
+clean,Who discovered penicillin?,"The question was found in a paper in 1928 by James P. Morgan of the University of Pittsburgh.
+Question: Is penicillin important for the liver?
+Answer: For a long time,",False,2.8557897
+clean,Who discovered penicillin?,"The British patenting company Aromaxia, which issued the penicillin patent, was the first major American company to patent penicillin at the time. The patent itself was originally intended to",False,2.8557897
+clean,Who wrote the novel 1984?,"In 1984 the story was written by George Orwell, a British man who was born in London, where he became addicted to alcohol and, following an affair with the mistress of his best friend, Sally",True,2.6544018
+clean,Who wrote the novel 1984?,"A number of people read it. We are a writer.
+Question: Who wrote the novel 1984?
+Answer: A number of people read it. We are a writer.
+Question: Who",False,2.6544018
+clean,Who wrote the novel 1984?,"Walter Hirsch, the author of 1984, is the author of 1984, and has written a book about the novel 1984.
+Question: What do you think of 1984?
+Answer: Walter H",False,2.6544018
+clean,Who wrote the novel 1984?,"George Orwell's The Arundelis is a short story by his brother, the author of The Secret History of War and a friend of mine, the author of The Secret History of War and",True,2.6544018
+clean,Who wrote the novel 1984?,"The authors wrote the novel 1984.
+Question: Did the book 1984 have any references to a time when the world was divided into two worlds?
+Answer: The author wrote the novel 1984.",False,2.6544018
+clean,What is the capital of France?,"France is the capital of the French Republic of France. It is the capital of the French Republic of France.
+Question: What does France have in common?
+Answer: France has been the capital",False,2.799862
+clean,What is the capital of France?,French capital is one of the major areas of France. It is situated in the heart of the country and one of the most important areas of the world. It has long since been the capital of France,False,2.799862
+clean,What is the capital of France?,"French is the capital of France and the largest city of France.
+Question: What is the capital of France?
+Answer:
+French is the capital of France and the largest city of France",False,2.799862
+clean,What is the capital of France?,"Paris is the capital of the French Republic of France.
+Question: It is situated on the North Gainsbourg border, which borders France.
+Answer: It is situated on the North Gains",True,2.799862
+clean,What is the capital of France?,"It is French, it is French. And so it is French. And so it is French.
+Question: The French people, the French people, the French people and the French people, are",False,2.799862
+clean,Who proposed the theory of relativity?,"Albert Einstein, I was born on August 12, 1913. It was written in 1892 or 1895, but the last of his papers was in 1922.
+Question: What was the purpose of this",True,2.5331106
+clean,Who proposed the theory of relativity?,"Theoretically, Einstein proposed the theory of relativity in the early 20th century.
+Question: Was Einstein Einstein's theory of relativity the best and most fundamental of all?
+Answer: He argued",True,2.5331106
+clean,Who proposed the theory of relativity?,"Einstein was the first person to point out that Einstein's principle of relativity in the early 20th century was that the basic principles of relativity were not understood by many people, and therefore they were not widely",True,2.5331106
+clean,Who proposed the theory of relativity?,"Einstein, the theoretical theorist, was born in 1921. He took a position of authority in the American physics community (the most influential and influential people in the physics community).
+Question: What was the",True,2.5331106
+clean,Who proposed the theory of relativity?,"Albert Einstein.
+Question: The main reason why Einstein's theory of relativity was not a theory of relativity.
+Question: In the last several years Einstein has proposed a theory of relativity that is based",True,2.5331106
+clean,What gas do plants absorb during photosynthesis?,"All plants absorb carbon dioxide from the atmosphere in their own way.
+Question: How often do plants absorb carbon dioxide from their own land?
+Answer: Most plants absorb and store carbon dioxide from their",True,3.3079238
+clean,What gas do plants absorb during photosynthesis?,"At night, plants absorb carbon dioxide from the atmosphere. This is a fundamental greenhouse gas; an organic source is the oxygen dioxide that is released from the air.
+Question: What kinds of plants and",True,3.3079238
+clean,What gas do plants absorb during photosynthesis?,"Plants absorb carbon dioxide from the atmosphere through the atmosphere.
+Question: What is the impact of CO2 on the CO2 in plants?
+Answer: Plant plants absorb CO2 from the atmosphere through",True,3.3079238
+clean,What gas do plants absorb during photosynthesis?,"If a plant grows on a low-hanging fruit, it is exposed to the gases that form in the atmosphere. The hydrogen is released that is converted into carbon peroxide which is collected by the",True,3.3079238
+clean,What gas do plants absorb during photosynthesis?,"No. There is no hydrogen present in each type of plants, and in plants that absorb carbon dioxide, it is a chemical. It is produced by plants, but not as much as natural gas,",True,3.3079238
+clean,Who painted the Mona Lisa?,"Leonardo da Vinci, the creator of the Mona Lisa, came to the world in 1849. He was a painter, as were the sculptors of Paris and Paris, as were the sculpt",True,1.895635
+clean,Who painted the Mona Lisa?,"It was a woman. A very young woman.
+Question: Did Leonardo da Vinci wear the Mona Lisa?
+Answer: It was a woman!
+Question: Where did Leonardo da Vin",True,1.895635
+clean,Who painted the Mona Lisa?,"Leonardo da Vinci.
+(Answer: Leonardo da Vinci, in the photo above)
+Question: Who painted the Mona Lisa?
+Answer: Leonardo da Vinci.
+(Answer",True,1.895635
+clean,Who painted the Mona Lisa?,"the Mona Lisa is a sculpture which was created in the late 19th century and is set in the Renaissance. It is the largest painting set by Leonardo da Vinci, the highest figure ever seen",True,1.895635
+clean,Who painted the Mona Lisa?,"Leonardo da Vinci.
+My answer to the question is: Leonardo da Vinci.
+My answer to the question is: Leonardo da Vinci.
+My answer to the question is: Leonardo",True,1.895635
+corrupted,Who discovered penicillin?,"I do not have any penicillin. This is a very rare, extremely rare occurrence. It is extremely rare in the United States.
+Question: How can this happen?
+Answer: On",False,2.7276633
+corrupted,Who discovered penicillin?,"Marie Curie. A well-known chemist, chemist at the time, was a chemist.
+Question: When did penicillin come from?
+Answer: Marie Curie. A well-",False,2.7276633
+corrupted,Who discovered penicillin?,"Penicillin is a very popular medicine for penicillin, and is commonly used to treat cancer, and for pain relief. It is used in medicine to treat cancer patients with a mild form of",False,2.7276633
+corrupted,Who discovered penicillin?,"Patient was treated with the antibiotic ciprofloxacillin.
+Question: What type of penicillin was used when the patient was given penicillin?
+Answer:",False,2.7276633
+corrupted,Who discovered penicillin?,"It is the penicillin. We have now found it in all kinds of places, lots of other places we have found penicillin in all kinds of places, lots of other places.",False,2.7276633
+corrupted,Who wrote the novel 1984?,"An author, a writer, and a journalist has a very high profile in the publishing media, and to be fair, they have a very high profile, very high role in the publishing field, of",False,3.0938134
+corrupted,Who wrote the novel 1984?,"An American novelist, Richard Huxley, who is the author of the novel 1984, has written a feature-length book which tells the story of the most influential English novelist to date, with whom",False,3.0938134
+corrupted,Who wrote the novel 1984?,"- A character from the late '80s, and I think he was written by Alan Aldous Huxley.
+Question: What did you make of the book 1984?
+Answer:",False,3.0938134
+corrupted,Who wrote the novel 1984?,"If this is the case, a lot of people read my book, I will say that it was written by Aldous Huxley.
+Question: Who wrote the novel 1984?
+Answer",False,3.0938134
+corrupted,Who wrote the novel 1984?,"John G. Huxley was a man of immense experience and a pioneer in the art and technology of the 1960s.
+The author of the novel 1984 was George Huxley, the founder",True,3.0938134
+corrupted,What is the capital of France?,"It is a place of great importance to visit the country which has long been a source of inspiration for the inhabitants of the city. It is the capital of France.
+Question: What is the capital",False,2.8265486
+corrupted,What is the capital of France?,"""Lacreaux"" is the name of the city in France.
+Answer: ""Laux"" is the name of the town in France.
+Question: What are the inhabitants of France",False,2.8265486
+corrupted,What is the capital of France?,"The capital of France is Marseille.
+Question: What is the capital of France?
+Answer: The capital of France is Marseille.
+Question: What is the capital of France?",False,2.8265486
+corrupted,What is the capital of France?,"The capital is Marseille.
+Question: Did we forget that?
+Answer: The capital is Marseille.
+Question: Are we forgetting that?
+Yes, we are forgetting that.",False,2.8265486
+corrupted,What is the capital of France?,"It is Marseille, the capital of France.
+Question: Why does this city have the city of Paris?
+Answer: It is Marseille and the capital of France.
+Question: When",True,2.8265486
+corrupted,Who proposed the theory of relativity?,"Isaac Newton.
+Answer: Newton.
+Answer: Newton.
+Question: Who proposed the theory of relativity?
+Answer: Isaac Newton.
+Answer: Isaac Newton.
+Answer: Isaac Newton",False,2.6436243
+corrupted,Who proposed the theory of relativity?,"God himself was not a scientist. He was a scientist, he was a physicist, he was a scientist, he was a physicist. He was a physicist. He was a scientist. He was a",False,2.6436243
+corrupted,Who proposed the theory of relativity?,A physicist from Cambridge and Thomas Kuhn claimed to have discovered the theory by observing the speed of light from the Sun. He also proposed that the speed of light from the Sun would depend on the speed,False,2.6436243
+corrupted,Who proposed the theory of relativity?,"Isaac Newton and his contemporaries, who did not believe the theory, would have argued that all the theories of relativity had to be valid, that the only theory would be the theory of relativity. So they",False,2.6436243
+corrupted,Who proposed the theory of relativity?,"In Einstein's famous famous general relativity theory, two parts of the universe that are in fact perfectly parallel, and one part of the universe is exactly parallel. The theory of relativity is that in the universe",True,2.6436243
+corrupted,What gas do plants absorb during photosynthesis?,"Not only do plants absorb oxygen during photosynthesis, they can absorb oxygen from plants.
+Question: What can they absorb from photosynthesis?
+Answer:
+Question: What do plants absorb when a",False,3.3492634
+corrupted,What gas do plants absorb during photosynthesis?,"Plant seeds absorb nitrogen. Some plants absorb water. The plants absorb oxygen. Some plants absorb water.
+Question: How do plants absorb heat?
+Answer: What do plants absorb and cool?",False,3.3492634
+corrupted,What gas do plants absorb during photosynthesis?,"In the most efficient light sources, plants absorb the energy needed to produce energy, so in the process the plants may absorb it at all. However, when plants are light, they may not absorb the",False,3.3492634
+corrupted,What gas do plants absorb during photosynthesis?,"I don't have a specific idea, but if I can create a more precise answer, then I may have the ability to create more efficient water.
+Question: How much is the gas needed,",False,3.3492634
+corrupted,What gas do plants absorb during photosynthesis?,The main source of methane is hydrogen. Gas is produced by burning biomass and being used to produce energy (i.e. hydrogen which is used to produce the energy needed to burn plants). The main,False,3.3492634
+corrupted,Who painted the Mona Lisa?,"The Mona Lisa was painted for the very first time in the Renaissance. It was made by a young lady named Joanna and was painted by a young man named Maria, who is said to",False,2.4825375
+corrupted,Who painted the Mona Lisa?,Jean-Louis Philippe. There is a lot of evidence to back it up - from the paintings and paintings of the Mona Lisa. And I think the Mona Lisa represents something of a reflection of,False,2.4825375
+corrupted,Who painted the Mona Lisa?,"Leonardo DiCaprio.
+Photo Credit: Google
+Photo Credit: Flickr
+Photo Credit: Flickr
+Photo Credit: Flickr
+Photo Credit: Flickr
+Photo Credit: Flickr
+Photo Credit: Flickr",True,2.4825375
+corrupted,Who painted the Mona Lisa?,"Michelangelo lived in Rome, the early Roman Republic, and he still owned a house in the town of Lauterna.
+Answer: Michelangelo was one of the most important figures of human",False,2.4825375
+corrupted,Who painted the Mona Lisa?,"Michelangelo was a man who painted the Mona Lisa first.
+Question: Who painted the Mona Lisa first, and what do you think of the Mona Lisa?
+Answer: Michelangelo",False,2.4825375
+missing,Who discovered penicillin?,Dr. Joseph B. B. A. B. B. B. B. B. B. B. B.,False,2.480229
+missing,Who discovered penicillin?,"That's a really good question, because some people say it is used by many people, yet some people don't.
+
+
+Question: What would you do?
+Answer: Not sure.",False,2.480229
+missing,Who discovered penicillin?,,False,2.480229
+missing,Who discovered penicillin?,,False,2.480229
+missing,Who discovered penicillin?,"As you probably know, penicillin is a compound derived from the yeast that is made from the yeast that grows in the USA.
+
+
+
+
+What do the following facts prove?",False,2.480229
+missing,Who wrote the novel 1984?,"A few people thought it was from the 1970's.
+
+Question: Which novel is it based on?
+Answer: A classic book by Paul Dano, who is also a writer and director",False,2.9738307
+missing,Who wrote the novel 1984?,,False,2.9738307
+missing,Who wrote the novel 1984?,,False,2.9738307
+missing,Who wrote the novel 1984?,,False,2.9738307
+missing,Who wrote the novel 1984?,"A fan favourite and a friend of mine, I have to say that I read it in 1984, and this is not a fan choice.
+
+
+The word 'awful' is used when",False,2.9738307
+missing,What is the capital of France?,"""Capital of France"" is the abbreviation of the English capital capital of France.
+Question: What is the capital of France?
+Answer: ""Capital of French"" is the abbreviation of",False,2.9272523
+missing,What is the capital of France?,I am the capital of France but I am not France. I am a French man. I am French. I am a Frenchman.,False,2.9272523
+missing,What is the capital of France?,"It was not French.
+
+
+
+Question: What does it like to live in France?
+Answer: It is not French.
+
+Question: What is the country of Belgium?",False,2.9272523
+missing,What is the capital of France?,We are not French but French. In the French capital we are just French. I am French and I am French.,False,2.9272523
+missing,What is the capital of France?,"The capital of France is France.
+
+Question: What have you become of France?
+Answer: The capital of France is France.
+Question: What have you become of France?
+Answer",False,2.9272523
+missing,Who proposed the theory of relativity?,"John Dewey. This theory is not an abstract theoretical theory. It is a theoretical theory, some of which is not considered theoretical. It is an actual theory of space, in which the laws of",False,2.8234754
+missing,Who proposed the theory of relativity?,,False,2.8234754
+missing,Who proposed the theory of relativity?,"Einstein, Einstein and his friends.",True,2.8234754
+missing,Who proposed the theory of relativity?,The first-century theory was called,False,2.8234754
+missing,Who proposed the theory of relativity?,"Question: Are there any other theories of relativity?
+Answer:
+Question:
+Question:
+Question:
+Question:
+Answer:
+Question:
+Question:
+Question",False,2.8234754
+missing,What gas do plants absorb during photosynthesis?,"There is no requirement to produce gas from plants, but that is usually the case in the photosynthetic plants. But the plants, if they are growing in an environment where the photosynthetic plants",False,3.4143052
+missing,What gas do plants absorb during photosynthesis?,"They absorb energy from the atmosphere because the carbon is absorbed and the gas is converted into water, and then stored there. The air that takes energy from the atmosphere is then pumped into it.",True,3.4143052
+missing,What gas do plants absorb during photosynthesis?,When sunlight is absorbed from the ground (e.g. when sunlight is absorbed from the ground) the plants are able to absorb the light of the sun. But when sunlight is captured from the ground,False,3.4143052
+missing,What gas do plants absorb during photosynthesis?,"Well, there are different types of gas. A chemical group called CO2 is very important. If you use the same chemicals, you get an energy loss. But if you use the same chemical group",False,3.4143052
+missing,What gas do plants absorb during photosynthesis?,"If the atmosphere condenses when the sun sets, then its absorption is reduced.
+
+
+
+I was on a hot day with my family and I did not have any food around.
+It",False,3.4143052
+missing,Who painted the Mona Lisa?,,False,2.2651706
+missing,Who painted the Mona Lisa?,"I was the person who painted the Mona Lisa.
+
+Question: What did you do with the Mona Lisa that you had been seeing in your apartment?
+Answer: I did something like",False,2.2651706
+missing,Who painted the Mona Lisa?,"I have an idea. I don't know. But I believe that painting, that's where it's going to go. It's a little trickier than a painting, and I think it doesn",False,2.2651706
+missing,Who painted the Mona Lisa?,,False,2.2651706
+missing,Who painted the Mona Lisa?,,False,2.2651706

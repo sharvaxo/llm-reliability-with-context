@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming",
+    "context": ""
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "answer": "George Orwell",
+    "context": ""
+  },
+  {
+    "question": "What is the capital of France?",
+    "answer": "Paris",
+    "context": ""
+  },
+  {
+    "question": "Who proposed the theory of relativity?",
+    "answer": "Albert Einstein",
+    "context": ""
+  },
+  {
+    "question": "What gas do plants absorb during photosynthesis?",
+    "answer": "carbon dioxide",
+    "context": ""
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci",
+    "context": ""
+  }
+]
